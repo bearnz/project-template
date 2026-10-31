@@ -1,0 +1,9 @@
+# Secrets and local overrides
+.env
+.env.*
+*.local.json
+.claude/settings.local.json
+
+# OS clutter
+.DS_Store
+Thumbs.db

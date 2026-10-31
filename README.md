@@ -1,2 +1,11 @@
-# project-template
-Base template for Josh's side projects: secret scanning, common .gitignore, lean README and CLAUDE.md
+# PROJECT_NAME
+
+PROJECT_DESCRIPTION
+
+## Running
+
+Not written yet.
+
+## Testing
+
+Not written yet.
