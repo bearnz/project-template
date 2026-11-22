@@ -6,6 +6,11 @@ This repository is public so that the code can be read and evaluated, for
 example by prospective employers. Publishing it here does not place it in the
 public domain and does not grant any licence to use it.
 
+This repository is scaffolding, meant to be copied into new projects, so "no
+licence" may look like an oversight here. It is not. Publishing the template
+is not an offer of it. If you would like to build on it, open an issue and
+ask; for scaffolding like this the answer is likely to be yes.
+
 GitHub's Terms of Service allow anyone to view and fork a public repository,
 and that much is permitted. Nothing further is. Without prior written
 permission from the copyright holder you may not:
